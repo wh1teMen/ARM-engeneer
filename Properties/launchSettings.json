@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ProgectE": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false,
+      "nativeDebugging": true
+    }
+  }
+}

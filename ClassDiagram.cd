@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProgectE.Model.Kontragent">
+    <Position X="6" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAECAAAAACAAAEAAAAAAAAAAAAgAAAAAAIAAAIAAAAA=</HashCode>
+      <FileName>Model\Kontragent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgectE.Model.Month">
+    <Position X="2" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Month.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgectE.Model.Order">
+    <Position X="2" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAADABAAAAAAAAAAAAAAAAgCABAAIAQIgAAABAAQAAA=</HashCode>
+      <FileName>Model\Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgectE.Model.Role">
+    <Position X="6" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAACIAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Role.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgectE.Model.User">
+    <Position X="4" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAEAACIEACAgAAAAEAAAAIwABAAAAAACAIAQCAAAAAA=</HashCode>
+      <FileName>Model\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
